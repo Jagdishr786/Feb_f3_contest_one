@@ -1,0 +1,69 @@
+.heading{
+    position: absolute;
+width: 164px;
+height: 29px;
+left: 35px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+}
+
+
+.container{
+    color: white;
+    display: flex;
+    position: absolute;
+width: 1728px;
+height: 89px;
+left: 0px;
+top: 0px;
+background: #000000;
+}
+
+.headingone{
+   
+    position: absolute;
+width: 132px;
+height: 29px;
+left: 1405px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+.headingtwo{
+    position: absolute;
+width: 114px;
+height: 29px;
+left: 1567px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+
+
+#parent{
+
+    box-sizing: border-box;
+
+position: absolute;
+width: 340px;
+height: 658px;
+left: 76px;
+top: 208px;
+}
